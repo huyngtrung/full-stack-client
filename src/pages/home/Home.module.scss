@@ -1,0 +1,19 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.post {
+    border: 1px solid #ccc;
+    padding: 6px;
+    margin: 20px;
+}
+
+.like {
+    background-color: blue;
+}
+
+.unlike {
+    background-color: gray;
+}
